@@ -1,9 +1,5 @@
 import sys
 
-#Autores:
-#Juan Victor Dutra Juan 31711081
-#Leonardo Longato     31717543
-
 #Para executar o código abra o shell no linux
 #Insira o seguinte comando: cat input.txt | python3 so.py
 
